@@ -1,0 +1,53 @@
+##################################
+	List of commands:
+##################################
+#java
+#python
+#cplus
+#type
+#acad
+#ntwrk
+#game
+#cir
+#music
+#net
+#film
+#pics==
+#eee
+#mee
+#mth
+#calc
+#note
+#map
+#settings
+#blue
+#cmd
+#key
+#ftp
+#help --
+#exit
+#paint
+#snip
+#sticky
+#task
+#down
+#foxit
+#cls
+#file
+#record
+#restart
+#shutdown
+#hibernate
+#time
+#date
+#pers
+#comp
+#off
+#config
+
+
+info/sysinfo/ifconfig
+desk
+ls - list files in folder
+cd - change directory
+lock
